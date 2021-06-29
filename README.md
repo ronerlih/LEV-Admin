@@ -5,7 +5,7 @@ Administration dashboards for events and shopping lists
 
 #### [🌎  live](https://ronerlih.github.io/LEV-Admin/)
 
-#### [this repo](https://github.com/ronerlih)
+#### [:octocat: this repo](https://github.com/ronerlih)
 
 #### UI diagram
 ![LEV-ui-diagram](https://user-images.githubusercontent.com/7093389/123869438-fcd45a00-d8fe-11eb-8410-64970a339a03.png)
